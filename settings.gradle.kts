@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "SpaceXCleanArch"
 include(":app")
+include(":domain")
+include(":data")
